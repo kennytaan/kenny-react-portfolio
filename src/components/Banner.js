@@ -3,6 +3,7 @@ import { Row, Col, Container } from "react-bootstrap";
 import headerImg from "../assets/img/header-img.svg";
 import ExampleDoc from "../assets/resume/Kenny Tan Junrong Resume.pdf";
 import 'animate.css';
+import ReactGA from 'react-ga';
 
 
 export const Banner = () =>{
@@ -13,6 +14,10 @@ export const Banner = () =>{
     const [delta, setDelta] = useState(300-200 * 100);
     const period = 2000;
     
+    const handleClick = () => {
+        ReactGA.event({'category':'Test', 'action':'submit','label':'label'});
+    }
+
     useEffect(() => {
         let ticker = setInterval(() => {
             tick();
@@ -52,7 +57,7 @@ export const Banner = () =>{
                         <p>Final year Computer Science student in NTU with a passion for web development. My ultimate goal is to become a full-stack web developer that specializes in building dynamic, 
                         responsive and user-friendly websites, hoping to create new digital experiences for users.  I am continuously seeking to enhance my knowledge and skills. </p>
                         {/* <button onClick={() => console.log('connect')}>View my resume!</button>     */}
-                        <a href={ExampleDoc} download="Kenny Tan Junrong Resume"><button><span>View my resume!</span></button></a>
+                        <a href={ExampleDoc} download="Kenny Tan Junrong Resume"><button onClick={handleClick}><span>View my resume!</span></button></a>
                     </Col>
                     <Col xs={12} md={6} xl ={5}>
                         <img src={headerImg} alt="Header Img"/>
