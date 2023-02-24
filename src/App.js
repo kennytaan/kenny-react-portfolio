@@ -10,6 +10,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import ReactGA from 'react-ga';
 
 ReactGA.initialize('UA-258302878-1');
+ReactGA.event({'category':'Test', 'action':'submit','label':'label'});
 
 function App() {
   return (
