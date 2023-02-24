@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kenny-react-portfolio/static/css/main.86841313.css",
+    "main.css": "/kenny-react-portfolio/static/css/main.079825a5.css",
     "main.js": "/kenny-react-portfolio/static/js/main.81f08432.js",
     "static/js/787.b8512bda.chunk.js": "/kenny-react-portfolio/static/js/787.b8512bda.chunk.js",
     "static/media/MDP-icon.PNG": "/kenny-react-portfolio/static/media/MDP-icon.61a12b40efac6e7ec613.PNG",
@@ -38,12 +38,12 @@
     "static/media/github-icon.svg": "/kenny-react-portfolio/static/media/github-icon.46a70e9263ffb3c2ad40e1e60e783969.svg",
     "index.html": "/kenny-react-portfolio/index.html",
     "static/media/nav-icon1.svg": "/kenny-react-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "main.86841313.css.map": "/kenny-react-portfolio/static/css/main.86841313.css.map",
+    "main.079825a5.css.map": "/kenny-react-portfolio/static/css/main.079825a5.css.map",
     "main.81f08432.js.map": "/kenny-react-portfolio/static/js/main.81f08432.js.map",
     "787.b8512bda.chunk.js.map": "/kenny-react-portfolio/static/js/787.b8512bda.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86841313.css",
+    "static/css/main.079825a5.css",
     "static/js/main.81f08432.js"
   ]
 }
