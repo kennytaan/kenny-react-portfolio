@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kenny-react-portfolio/static/css/main.079825a5.css",
-    "main.js": "/kenny-react-portfolio/static/js/main.a888224e.js",
+    "main.js": "/kenny-react-portfolio/static/js/main.cdf6d02a.js",
     "static/js/787.b8512bda.chunk.js": "/kenny-react-portfolio/static/js/787.b8512bda.chunk.js",
     "static/media/MDP-icon.PNG": "/kenny-react-portfolio/static/media/MDP-icon.61a12b40efac6e7ec613.PNG",
     "static/media/IA-icon.jpg": "/kenny-react-portfolio/static/media/IA-icon.7fa73acdfe8e3cdd43ef.jpg",
@@ -12,8 +12,8 @@
     "static/media/OODP-icon.PNG": "/kenny-react-portfolio/static/media/OODP-icon.4c5ac9ec220548c2902f.PNG",
     "static/media/mashwire-web.PNG": "/kenny-react-portfolio/static/media/mashwire-web.d74ec3a1a08019adc3a9.PNG",
     "static/media/paper-aeroplane.png": "/kenny-react-portfolio/static/media/paper-aeroplane.df461c42c91102c2e77c.png",
+    "static/media/Kenny Tan Junrong Resume.pdf": "/kenny-react-portfolio/static/media/Kenny Tan Junrong Resume.1c9467842bf214ea56b5.pdf",
     "static/media/DSAI-icon.PNG": "/kenny-react-portfolio/static/media/DSAI-icon.2b8037d0398644eed354.PNG",
-    "static/media/Kenny Tan Junrong Resume.pdf": "/kenny-react-portfolio/static/media/Kenny Tan Junrong Resume.1cff7c4e2beaf7e45262.pdf",
     "static/media/SE-icon.png": "/kenny-react-portfolio/static/media/SE-icon.7cb208c470590df1ac84.png",
     "static/media/leftovers.PNG": "/kenny-react-portfolio/static/media/leftovers.3f5de0593c2f6e89f782.PNG",
     "static/media/CentraNo2-Bold.ttf": "/kenny-react-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -39,11 +39,11 @@
     "index.html": "/kenny-react-portfolio/index.html",
     "static/media/nav-icon1.svg": "/kenny-react-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.079825a5.css.map": "/kenny-react-portfolio/static/css/main.079825a5.css.map",
-    "main.a888224e.js.map": "/kenny-react-portfolio/static/js/main.a888224e.js.map",
+    "main.cdf6d02a.js.map": "/kenny-react-portfolio/static/js/main.cdf6d02a.js.map",
     "787.b8512bda.chunk.js.map": "/kenny-react-portfolio/static/js/787.b8512bda.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.079825a5.css",
-    "static/js/main.a888224e.js"
+    "static/js/main.cdf6d02a.js"
   ]
 }
