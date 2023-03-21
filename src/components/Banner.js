@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Row, Col, Container } from "react-bootstrap";
 import headerImg from "../assets/img/header-img.svg";
-import ExampleDoc from "../assets/resume/Kenny Tan Junrong Resume.pdf";
+import ExampleDoc from "../assets/resume/KennyTanJunrong_Resume.pdf";
 import 'animate.css';
 import ReactGA from 'react-ga';
 
