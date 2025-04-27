@@ -77,7 +77,7 @@ export const Contact = () => {
                                     <input name="contact_no" type = "tel" value={formDetails.phone} placeholder = "Phone Number" onChange = {(e) => onFormUpdate('phone',e.target.value)}></input>
                                 </Col>
                                 <Col>
-                                    <textarea row = "6" value={formDetails.message} placeholder = "Message" onChange = {(e) => onFormUpdate('message',e.target.value)}></textarea>
+                                    <textarea name="message" row = "6" value={formDetails.message} placeholder = "Message" onChange = {(e) => onFormUpdate('message',e.target.value)}></textarea>
                                     <button type = "submit" disabled={disabled}><span>{buttonText}</span></button>
                                 </Col>
                                 
