@@ -57,7 +57,7 @@ export const Banner = () =>{
                         <p>Software Engineer with close to 2 years of experience, specializing in web development. I am passionate about building dynamic, responsive, and user-centric web applications that deliver meaningful digital experiences. 
                         With a foundation in full-stack development, I am continuously seeking to enhance my knowledge and skill set, at the same time embracing new technologies to craft better solutions and stay in trend. </p>
                         {/* <button onClick={() => console.log('connect')}>View my resume!</button>     */}
-                        <a href={ExampleDoc} download="Kenny Tan Junrong Resume"><button onClick={handleClick}><span>View my resume!</span></button></a>
+                        {/* <a href={ExampleDoc} download="Kenny Tan Junrong Resume"><button onClick={handleClick}><span>View my resume!</span></button></a> */}
                     </Col>
                     <Col xs={12} md={6} xl ={5}>
                         <img src={headerImg} alt="Header Img"/>
